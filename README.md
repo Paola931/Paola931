@@ -11,9 +11,6 @@
 - 🔧 &nbsp; Git | Postman API | Spring Boot
 
 
-### 📫🤝🏻 Connect with Me
-
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/paola-ammaturo/) 👨🏻‍💻
 
 <!--
 **Paola931/Paola931** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
