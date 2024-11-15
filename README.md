@@ -2,11 +2,12 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying with Develhope.
+- 🎓 &nbsp; Studied with Develhope.
+- 📖 &nbsp; Studying C# and Unity
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | OOP | Testing | Design pattern 
+- 💻 &nbsp; Java | OOP | Testing | Design pattern | C#
 - 🛢 &nbsp; MySQL | SQL
 - 🔧 &nbsp; Git | Postman API | Spring Boot
 
